@@ -55,7 +55,7 @@ using namespace std::chrono;
 
 #define TRACE_GROUP  "WIZFII" // WizFi360 Interface
 
-#define WIZFI360_WIFI_IF_NAME "es0"
+#define WIZFI360_WIFI_IF_NAME "wiz0"
 
 #define LOCAL_ADDR "127.0.0.1"
 

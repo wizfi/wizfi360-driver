@@ -55,7 +55,7 @@
             "value": 8192
         },
         "country-code": {
-            "help": "ISO 3166-1 coded, 2 character alphanumeric country code, 'CN' by default",
+            "help": "ISO 3166-1 coded, 2 character alphanumeric country code, 'KR' by default",
             "value": null
         },
         "channel-start": {
@@ -103,6 +103,10 @@
         "NUCLEO_F411RE": {
             "tx": "D8",
             "rx": "D2"
-        }
+        },
+        "ARM_MUSCA_S1": {
+            "tx": "D1",
+            "rx": "D0"
+        }        
     }
 }
